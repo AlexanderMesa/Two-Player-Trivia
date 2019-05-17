@@ -34,4 +34,8 @@ IO to handle our multi player functions, updates of user inputs, and to keeps tr
 
 https://trivia-game-94125.herokuapp.com/
 
+## My Responsibilities
+
+I made the API calls to Open Trivia DataBase to get the questions.
+I wrote the programming logic for single player trivia game (number of questions right, change question when user answers)
 
