@@ -10,7 +10,7 @@ We used Axios to make our API calls and it supplied us with  the random question
 IO to handle our multi player functions, updates of user inputs, and to keeps track of the games connections.
 
 
-Note: If you want to play this with two browsers on the same computer, use a private window.
+Note: If you want to play this with two browsers on the same computer, use private windows.
 
 ## Technologies/Tools Used 
 
