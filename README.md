@@ -1,4 +1,4 @@
-# Group Project 2 
+# Two Player Trivia
 
 Alex Mesa, 
 Conner Leigh,
