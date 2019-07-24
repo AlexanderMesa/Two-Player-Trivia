@@ -1,4 +1,4 @@
-# Two Player Trivia
+# Two-Player Trivia
 
 Alex Mesa, 
 Conner Leigh,
