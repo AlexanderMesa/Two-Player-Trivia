@@ -1,4 +1,4 @@
-# Group Project 2 
+# Two-Player Trivia
 
 Alex Mesa, 
 Conner Leigh,
@@ -8,6 +8,9 @@ Todd Williams
 We created a multiplayer trivia game allowing two people to play against each other from separate devices.
 We used Axios to make our API calls and it supplied us with  the random questions for our game. We then used socket
 IO to handle our multi player functions, updates of user inputs, and to keeps track of the games connections.
+
+
+Note: If you want to play this with two browsers on the same computer, use private windows.
 
 ## Technologies/Tools Used 
 
