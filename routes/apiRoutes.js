@@ -1,6 +1,8 @@
+/* eslint-disable no-empty-function */
+/* eslint-disable no-unused-vars */
+/* eslint-disable camelcase */
 var db = require("../models");
-const axios = require("axios");
-var questions = [];
+var axios = require("axios");
 module.exports = function(app) {
   //Start
   app.get("/api/questions", function(req, res) {

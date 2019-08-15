@@ -4,6 +4,7 @@
     "password": "root",
     "database": "trivia_db",
     "host": "localhost",
+    "port": 8889,
     "dialect": "mysql"
   },
   "test": {
@@ -11,11 +12,13 @@
     "password": "root",
     "database": "trivia_db",
     "host": "localhost",
+    "port": 8889,
     "dialect": "mysql",
     "logging": false
   },
   "production": {
     "use_env_variable": "JAWSDB_URL",
+    "port": 8889,
     "dialect": "mysql"
   }
 }
