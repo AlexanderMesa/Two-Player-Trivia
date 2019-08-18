@@ -29,7 +29,6 @@ Note: If you want to play this on one computer, use two different browsers.
 
 * Live chat between gamers 
 * Difficulty level selection 
-* The ability to add a 3rd and 4th player 
 * Category selection for each question 
 * Sound Timer for each question
 
