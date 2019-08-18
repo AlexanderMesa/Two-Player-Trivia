@@ -34,7 +34,7 @@ Note: If you want to play this on one computer, use two different browsers.
 
 ### Check out our App!!
 
-https://trivia-game-94125.herokuapp.com/
+https://two-player-trivia.herokuapp.com/
 
 ## My Responsibilities
 
